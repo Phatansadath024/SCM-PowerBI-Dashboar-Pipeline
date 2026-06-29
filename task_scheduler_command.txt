@@ -1,0 +1,13 @@
+Example Windows Task Scheduler command:
+
+Program/script:
+python
+
+Arguments:
+C:\KATEK\kapa_automation\main.py
+
+Start in:
+C:\KATEK\kapa_automation
+
+Recommended trigger:
+Daily after WayRTS export is available, for example 11:15 local time.
